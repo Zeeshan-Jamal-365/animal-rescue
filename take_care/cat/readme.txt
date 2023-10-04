@@ -1,0 +1,4 @@
+Encourage the cat to use a litter box.[1] Most cats will prefer the litter box to other parts of the house because of the texture of the litter. But, there are still steps you need to take to make sure you're offering the litter box as the best place to use the bathroom.
+Place the box in a quiet spot where the cat won’t be bothered by people, dogs, or loud noises.
+To keep the litter box clean, make sure you scoop the litter daily, and clean the box weekly. You should also replace or refresh the litter at least once a week.[2]
+Provide enough litter boxes for more than one cat. If you have 2 cats, you need 3 litter boxes in different areas of the home. One cat might try to intimidate a less dominate cat away from using a single box.

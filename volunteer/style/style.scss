@@ -1,0 +1,7 @@
+body{
+background:lightblue
+}
+@mixin heading-font {
+    font-family: sans-serif;
+    font-weight: bold;
+  }
